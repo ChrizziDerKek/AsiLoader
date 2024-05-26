@@ -12,4 +12,6 @@ Each one of these calls a specific function in our array. Normally we would need
 
 All the stub functions get compiled as a simple jmp instruction to the real function. That means that we don't have to worry about any arguments because we just jump to the real function anyways. The only downside is that this only works with a static size array, but I guess it's better than having to define every single function correctly.
 
-Now the last thing to do is map the stub functions to the real ones that we need to export. This is done by using a .def file for each supported dll.
+Now the last thing to do is map the stub functions to the real ones that we need to export. This is done by using a .def file for each supported dll:
+
+![Alt text](images/7.png?raw=true "Title")
