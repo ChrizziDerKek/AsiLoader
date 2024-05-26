@@ -8,6 +8,39 @@ This project was made just for fun but could possibly still be useful. It implem
 4) Copy your decoy dll in the program's directory
 5) Done! Now the dll will load any .asi file in the same directory when the program starts
 
+## Currently supported dlls
+- d2d1.dll
+- d3d9.dll
+- d3d10.dll
+- d3d11.dll
+- d3d12.dll
+- d3dcompiler_43.dll
+- d3dcompiler_46.dll
+- d3dcompiler_47.dll
+- ddraw.dll
+- dinput.dll
+- dinput8.dll
+- dsound.dll
+- eosdk-win64-shipping.dll
+- kernel32.dll
+- msacm32.dll
+- msvfw32.dll
+- ntdll.dll
+- psapi.dll
+- steam_api64.dll
+- vcruntime140.dll
+- vcruntime140d.dll
+- version.dll
+- winhttp.dll
+- wininet.dll
+- winmm.dll
+- xaudio2_7.dll
+- xaudio2_8.dll
+- xaudio2_9.dll
+- xinput1_3.dll
+- xinput1_4.dll
+- xinput9_1_0.dll
+
 ## Extension / SDK
 The project also comes with a small SDK with functions that may be useful. The file is called AsiLoaderExtension.asi and implements the following functions:
 
