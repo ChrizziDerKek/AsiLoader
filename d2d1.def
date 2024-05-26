@@ -1,0 +1,15 @@
+LIBRARY "d2d1"
+EXPORTS
+D2D1ComputeMaximumScaleFactor = fn0
+D2D1ConvertColorSpace = fn1
+D2D1CreateDevice = fn2
+D2D1CreateDeviceContext = fn3
+D2D1CreateFactory = fn4
+D2D1GetGradientMeshInteriorPointsFromCoonsPatch = fn5
+D2D1InvertMatrix = fn6
+D2D1IsMatrixInvertible = fn7
+D2D1MakeRotateMatrix = fn8
+D2D1MakeSkewMatrix = fn9
+D2D1SinCos = fn10
+D2D1Tan = fn11
+D2D1Vec3Length = fn12

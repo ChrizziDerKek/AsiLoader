@@ -1,0 +1,19 @@
+LIBRARY "version"
+EXPORTS
+GetFileVersionInfoA = fn0
+GetFileVersionInfoByHandle = fn1
+GetFileVersionInfoExA = fn2
+GetFileVersionInfoExW = fn3
+GetFileVersionInfoSizeA = fn4
+GetFileVersionInfoSizeExA = fn5
+GetFileVersionInfoSizeExW = fn6
+GetFileVersionInfoSizeW = fn7
+GetFileVersionInfoW = fn8
+VerFindFileA = fn9
+VerFindFileW = fn10
+VerInstallFileA = fn11
+VerInstallFileW = fn12
+VerLanguageNameA = fn13
+VerLanguageNameW = fn14
+VerQueryValueA = fn15
+VerQueryValueW = fn16

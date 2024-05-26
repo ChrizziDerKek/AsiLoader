@@ -1,0 +1,18 @@
+EXPORTS
+D3DPERF_BeginEvent = fn0
+D3DPERF_EndEvent = fn1
+D3DPERF_GetStatus = fn2
+D3DPERF_QueryRepeatFrame = fn3
+D3DPERF_SetMarker = fn4
+D3DPERF_SetOptions = fn5
+D3DPERF_SetRegion = fn6
+DebugSetLevel = fn7
+DebugSetMute = fn8
+Direct3D9EnableMaximizedWindowedModeShim = fn9
+Direct3DCreate9 = fn10
+Direct3DCreate9Ex = fn11
+Direct3DCreate9On12 = fn12
+Direct3DCreate9On12Ex = fn13
+Direct3DShaderValidatorCreate9 = fn14
+PSGPError = fn15
+PSGPSampleTexture = fn16

@@ -1,0 +1,27 @@
+LIBRARY "d3dcompiler_46"
+EXPORTS
+D3DAssemble = fn0
+D3DCompile = fn1
+D3DCompile2 = fn2
+D3DCompileFromFile = fn3
+D3DCompressShaders = fn4
+D3DCreateBlob = fn5
+D3DDecompressShaders = fn6
+D3DDisassemble = fn7
+D3DDisassemble10Effect = fn8
+D3DDisassemble11Trace = fn9
+D3DDisassembleRegion = fn10
+D3DGetBlobPart = fn11
+D3DGetDebugInfo = fn12
+D3DGetInputAndOutputSignatureBlob = fn13
+D3DGetInputSignatureBlob = fn14
+D3DGetOutputSignatureBlob = fn15
+D3DGetTraceInstructionOffsets = fn16
+D3DPreprocess = fn17
+D3DReadFileToBlob = fn18
+D3DReflect = fn19
+D3DReturnFailure1 = fn20
+D3DSetBlobPart = fn21
+D3DStripShader = fn22
+D3DWriteBlobToFile = fn23
+DebugSetMute = fn24

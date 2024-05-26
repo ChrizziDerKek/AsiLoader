@@ -1,0 +1,19 @@
+LIBRARY "d3dcompiler_43"
+EXPORTS
+D3DAssemble = fn0
+D3DCompile = fn1
+D3DCompressShaders = fn2
+D3DCreateBlob = fn3
+D3DDecompressShaders = fn4
+D3DDisassemble = fn5
+D3DDisassemble10Effect = fn6
+D3DGetBlobPart = fn7
+D3DGetDebugInfo = fn8
+D3DGetInputAndOutputSignatureBlob = fn9
+D3DGetInputSignatureBlob = fn10
+D3DGetOutputSignatureBlob = fn11
+D3DPreprocess = fn12
+D3DReflect = fn13
+D3DReturnFailure1 = fn14
+D3DStripShader = fn15
+DebugSetMute = fn16

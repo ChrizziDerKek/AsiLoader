@@ -1,0 +1,20 @@
+LIBRARY "d3d12"
+EXPORTS
+D3D12CoreCreateLayeredDevice = fn0
+D3D12CoreGetLayeredDeviceSize = fn1
+D3D12CoreRegisterLayers = fn2
+D3D12CreateDevice = fn3
+D3D12CreateRootSignatureDeserializer = fn4
+D3D12CreateVersionedRootSignatureDeserializer = fn5
+D3D12DeviceRemovedExtendedData = fn6
+D3D12EnableExperimentalFeatures = fn7
+D3D12GetDebugInterface = fn8
+D3D12GetInterface = fn9
+D3D12PIXEventsReplaceBlock = fn10
+D3D12PIXGetThreadInfo = fn11
+D3D12PIXNotifyWakeFromFenceSignal = fn12
+D3D12PIXReportCounter = fn13
+D3D12SerializeRootSignature = fn14
+D3D12SerializeVersionedRootSignature = fn15
+GetBehaviorValue = fn16
+SetAppCompatStringPointer = fn17

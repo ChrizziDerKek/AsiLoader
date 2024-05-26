@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{c52e5137-4f62-4fb6-a6ec-940949b21f67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exports">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="d3dcompiler_47.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3dcompiler_43.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="dsound.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="dinput8.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="version.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xinput1_3.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xinput9_1_0.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xinput1_4.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="vcruntime140.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="vcruntime140d.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d2d1.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="wininet.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="ddraw.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3d9.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3d10.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3d11.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3d12.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="d3dcompiler_46.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="eossdk-win64-shipping.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="steam_api64.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="winmm.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="winhttp.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="kernel32.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="ntdll.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="msacm32.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="dinput.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="psapi.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="msvfw32.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xaudio2_8.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xaudio2_9.def">
+      <Filter>Exports</Filter>
+    </None>
+    <None Include="xaudio2_7.def">
+      <Filter>Exports</Filter>
+    </None>
+  </ItemGroup>
+</Project>

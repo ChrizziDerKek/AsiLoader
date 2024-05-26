@@ -1,0 +1,29 @@
+LIBRARY "psapi"
+EXPORTS
+EmptyWorkingSet = fn0
+EnumDeviceDrivers = fn1
+EnumPageFilesA = fn2
+EnumPageFilesW = fn3
+EnumProcessModules = fn4
+EnumProcessModulesEx = fn5
+EnumProcesses = fn6
+GetDeviceDriverBaseNameA = fn7
+GetDeviceDriverBaseNameW = fn8
+GetDeviceDriverFileNameA = fn9
+GetDeviceDriverFileNameW = fn10
+GetMappedFileNameA = fn11
+GetMappedFileNameW = fn12
+GetModuleBaseNameA = fn13
+GetModuleBaseNameW = fn14
+GetModuleFileNameExA = fn15
+GetModuleFileNameExW = fn16
+GetModuleInformation = fn17
+GetPerformanceInfo = fn18
+GetProcessImageFileNameA = fn19
+GetProcessImageFileNameW = fn20
+GetProcessMemoryInfo = fn21
+GetWsChanges = fn22
+GetWsChangesEx = fn23
+InitializeProcessForWsWatch = fn24
+QueryWorkingSet = fn25
+QueryWorkingSetEx = fn26

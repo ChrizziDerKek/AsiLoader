@@ -1,0 +1,6 @@
+LIBRARY "xaudio2_7"
+EXPORTS
+DllCanUnloadNow = fn0
+DllGetClassObject = fn1
+DllRegisterServer = fn2
+DllUnregisterServer = fn3

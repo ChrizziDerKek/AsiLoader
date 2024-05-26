@@ -1,0 +1,9 @@
+LIBRARY "dinput"
+EXPORTS
+DirectInputCreateA = fn0
+DirectInputCreateEx = fn1
+DirectInputCreateW = fn2
+DllCanUnloadNow = fn3
+DllGetClassObject = fn4
+DllRegisterServer = fn5
+DllUnregisterServer = fn6

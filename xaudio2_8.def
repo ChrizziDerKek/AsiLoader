@@ -1,0 +1,9 @@
+LIBRARY "xaudio2_8"
+EXPORTS
+CreateAudioReverb = fn0
+CreateAudioVolumeMeter = fn1
+CreateFX = fn2
+X3DAudioCalculate = fn3
+X3DAudioInitialize = fn4
+XAudio2Create = fn5
+XAudio2CreateWithVersionInfo = fn6

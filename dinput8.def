@@ -1,0 +1,8 @@
+LIBRARY "dinput8"
+EXPORTS
+DirectInput8Create = fn0
+DllCanUnloadNow = fn1
+DllGetClassObject = fn2
+DllRegisterServer = fn3
+DllUnregisterServer = fn4
+GetdfDIJoystick = fn5

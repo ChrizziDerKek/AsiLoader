@@ -1,0 +1,23 @@
+EXPORTS
+AcquireDDThreadLock = fn0
+CompleteCreateSysmemSurface = fn1
+D3DParseUnknownCommand = fn2
+DDGetAttachedSurfaceLcl = fn3
+DDInternalLock = fn4
+DDInternalUnlock = fn5
+DSoundHelp = fn6
+DirectDrawCreate = fn7
+DirectDrawCreateClipper = fn8
+DirectDrawCreateEx = fn9
+DirectDrawEnumerateA = fn10
+DirectDrawEnumerateExA = fn11
+DirectDrawEnumerateExW = fn12
+DirectDrawEnumerateW = fn13
+DllCanUnloadNow = fn14
+DllGetClassObject = fn15
+GetDDSurfaceLocal = fn16
+GetOLEThunkData = fn17
+GetSurfaceFromDC = fn18
+RegisterSpecialCase = fn19
+ReleaseDDThreadLock = fn20
+SetAppCompatData = fn21

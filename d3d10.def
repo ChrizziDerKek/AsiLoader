@@ -1,0 +1,31 @@
+LIBRARY "d3d10"
+EXPORTS
+D3D10CompileEffectFromMemory = fn0
+D3D10CompileShader = fn1
+D3D10CreateBlob = fn2
+D3D10CreateDevice = fn3
+D3D10CreateDeviceAndSwapChain = fn4
+D3D10CreateEffectFromMemory = fn5
+D3D10CreateEffectPoolFromMemory = fn6
+D3D10CreateStateBlock = fn7
+D3D10DisassembleEffect = fn8
+D3D10DisassembleShader = fn9
+D3D10GetGeometryShaderProfile = fn10
+D3D10GetInputAndOutputSignatureBlob = fn11
+D3D10GetInputSignatureBlob = fn12
+D3D10GetOutputSignatureBlob = fn13
+D3D10GetPixelShaderProfile = fn14
+D3D10GetShaderDebugInfo = fn15
+D3D10GetVersion = fn16
+D3D10GetVertexShaderProfile = fn17
+D3D10PreprocessShader = fn18
+D3D10ReflectShader = fn19
+D3D10RegisterLayers = fn20
+D3D10StateBlockMaskDifference = fn21
+D3D10StateBlockMaskDisableAll = fn22
+D3D10StateBlockMaskDisableCapture = fn23
+D3D10StateBlockMaskEnableAll = fn24
+D3D10StateBlockMaskEnableCapture = fn25
+D3D10StateBlockMaskGetSetting = fn26
+D3D10StateBlockMaskIntersect = fn27
+D3D10StateBlockMaskUnion = fn28
